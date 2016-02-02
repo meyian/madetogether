@@ -1,0 +1,7 @@
+The website I'm looking to emulate is http://www.madetogether.com.au/
+
+According to https://bootstrapbay.com/blog/built-with-bootstrap/ it was made with bootstrap. (I wonder how they can tell). So that's reason #1 I wanted to look into duplicating this website - it's a means to try out my Bootstrap chops.
+
+It's convenient because it's a very simple website, except for the parallax scrolling, and the line that underlines the header once you start to scroll, and how the header changes colour to white, once you're off the blue section at the top.
+
+Something I'd like to investigate during the making of this webpage is pre-loading images before you show the user what you're up to.
