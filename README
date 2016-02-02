@@ -4,4 +4,4 @@ According to https://bootstrapbay.com/blog/built-with-bootstrap/ it was made wit
 
 It's convenient because it's a very simple website, except for the parallax scrolling, and the line that underlines the header once you start to scroll, and how the header changes colour to white, once you're off the blue section at the top.
 
-Something I'd like to investigate during the making of this webpage is pre-loading images before you show the user what you're up to.
+Something I'd like to investigate during the making of this webpage is pre-loading images before you show the user the whole page.
